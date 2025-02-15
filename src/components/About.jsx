@@ -40,6 +40,7 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn("", "", 0.1, 1)} className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
+        {/* TODO: Implement me! */}
         I am a dedicated and ambitious current student at Dalhousie University, pursuing a degree in
         Computer Science with an impressive CGPA of 4.25/4.3. With a strong foundation in programming 
         languages, algorithms, and data structures, my true passion lies in the exciting field of full 

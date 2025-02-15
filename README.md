@@ -15,7 +15,7 @@ Welcome to my personal portfolio project! This project showcases my work, skills
 
 ## About
 
-This portfolio is a comprehensive display of my skills and experiences as a Computer Science student and software developer. It includes information about my background, education, professional experiences, and a selection of my projects.
+This portfolio is a comprehensive display of my skills and experiences as a experienced software engineer. It includes information about my background, education, professional experiences, and a selection of my projects.
 
 It also Includes an AI you can talk to about me.
 
@@ -77,9 +77,9 @@ After starting the development server, you can access the portfolio by navigatin
 
 Feel free to reach out to me for any professional inquiries or questions:
 
-- **Email:** [hassan.chowdhry@dal.ca](mailto:hassan.chowdhry@dal.ca)
-- **LinkedIn:** [linkedin/in/hassanchowdhry](https://www.linkedin.com/in/hassanchowdhry) -->
-- **Website:** [HassanChowdhry.live](http://hassanchowdhry.live)
+- **Email:** [bilal.ishtiaque.7@gmail.com](mailto:bilal.ishtiaque.7@gmail.com)
+- **LinkedIn:** [linkedin/in/bilal-ishtiaque](https://www.linkedin.com/in/bilal-ishtiaque) -->
+- **Website:** TODO: Implement me!
 
 ---
 

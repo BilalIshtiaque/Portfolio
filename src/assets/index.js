@@ -9,13 +9,13 @@ import ansys from "./company/ansys.jpg";
 import icpc from "./company/icpc.png";
 
 import pixis from "./projects/pixis.png";
-import hassantree from "./projects/hassantree.png";
+import hassantree from "./projects/hassantree.png"; // TODO: Implement me!
 import beatstream from "./projects/beatstream.png";
 import portfolio from "./projects/portfolio.png";
 import leetbot from "./projects/leetbot.png";
 import links from "./projects/links.png";
 import tweet from "./projects/tweet.png";
-import resume from "./resume/HassanChowdhry_Resume.pdf";
+import resume from "./resume/HassanChowdhry_Resume.pdf"; // TODO: Implement me!
 import podtext_ai from "./projects/podtext-ai.png";
 import oldbailey_ai from "./projects/oldbailey.png";
 import flappybird from "./projects/flappybird.png";
@@ -33,7 +33,7 @@ export {
   dalhousie,
   upwork,
   pixis,
-  hassantree,
+  hassantree, // TODO: Implement me!
   beatstream,
   links,
   portfolio,
