@@ -1,15 +1,17 @@
-# Hassan Chowdhry's Portfolio
+# Bilal Ishtiaque's Portfolio
 
 Welcome to my personal portfolio project! This project showcases my work, skills, and experiences. It's built to provide an overview of my professional journey and highlight some of the projects I've worked on.
 
 ## Table of Contents
 
-- [About](#about)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contact](#contact)
+- [Bilal Ishtiaque's Portfolio](#bilal-ishtiaques-portfolio)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [Technologies Used](#technologies-used)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contact](#contact)
 
 ## About
 
@@ -49,7 +51,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HassanChowdhry/Portfolio
+   git clone https://github.com/BilalIshtiaque/Portfolio
    ```
 
 2. Navigate to the project directory:
@@ -76,7 +78,7 @@ After starting the development server, you can access the portfolio by navigatin
 Feel free to reach out to me for any professional inquiries or questions:
 
 - **Email:** [hassan.chowdhry@dal.ca](mailto:hassan.chowdhry@dal.ca)
-- **LinkedIn:** [linkedin/in/hassanchowdhry](https://www.linkedin.com/in/hassanchowdhry)
+- **LinkedIn:** [linkedin/in/hassanchowdhry](https://www.linkedin.com/in/hassanchowdhry) -->
 - **Website:** [HassanChowdhry.live](http://hassanchowdhry.live)
 
 ---

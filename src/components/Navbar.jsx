@@ -16,7 +16,7 @@ const [toggle, setToggle] = useState(false);
           window.scrollTo(0, 0);
         }}>
           <img src={logo} alt="logo" className='w-9 h-9 object-contain' loading="lazy" />
-          <p className='text-white text-[18px] font-bold cursor-pointer flex'>Hassan Chowdhry&nbsp; </p>
+          <p className='text-white text-[18px] font-bold cursor-pointer flex'>Bilal Ishtiaque&nbsp; </p>
         </Link>
 
         <ul className='list-none hidden sm:flex flex-row gap-10'>
