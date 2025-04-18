@@ -45,6 +45,8 @@ const About = () => {
         Over the years, I’ve worn many hats outside: freelancer, software entrepreneur, open source contributor, and lifelong learner. I've led client projects from concept to production, built internal tools that scaled, and contributed to public codebases that others rely on. My technical foundation is rock-solid, and I’m constantly evolving — keeping up with the latest in software architecture, development practices, and now, diving deep into AI/ML.
         <br/><br/>
         Whether it’s building reliable systems, solving complex engineering challenges, or exploring emerging technologies, I bring a high standard of craftsmanship and curiosity to everything I do. For me, software isn’t just a career — it’s a craft I’m committed to advancing.
+        <br/><br/>
+        My interests extend well beyond the screen. I’m an avid mountaineer, history enthusiast and aspiring writer.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
