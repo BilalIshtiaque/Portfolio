@@ -59,6 +59,8 @@ const services = [
   //   Icon: FaUpwork,
   //   link: "https://www.upwork.com/freelancers/~013df04d0a3432d810",
   // },
+  // TODO: Add in stackoverflow.
+  // TODO: Add in mentorship platform.
 ];
 
 const experiences = [
