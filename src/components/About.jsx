@@ -42,7 +42,7 @@ const About = () => {
       <motion.p variants={fadeIn("", "", 0.1, 1)} className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
         I'm a Software Engineer based in Vancouver, Canada, with a degree in Software Engineering from McMaster University. I specialize in backend distributed systems in cloud-native environments, but my experience spans the full stack — from mobile and web development to DevOps and site reliability engineering.
         <br/><br/>
-        Over the years, I’ve worn many hats: freelancer, software entrepreneur, open source contributor, and lifelong learner. I've led client projects from concept to production, built internal tools that scaled, and contributed to public codebases that others rely on. My technical foundation is rock-solid, and I’m constantly evolving — keeping up with the latest in software architecture, development practices, and now, diving deep into AI/ML.
+        Over the years, I’ve worn many hats outside: freelancer, software entrepreneur, open source contributor, and lifelong learner. I've led client projects from concept to production, built internal tools that scaled, and contributed to public codebases that others rely on. My technical foundation is rock-solid, and I’m constantly evolving — keeping up with the latest in software architecture, development practices, and now, diving deep into AI/ML.
         <br/><br/>
         Whether it’s building reliable systems, solving complex engineering challenges, or exploring emerging technologies, I bring a high standard of craftsmanship and curiosity to everything I do. For me, software isn’t just a career — it’s a craft I’m committed to advancing.
       </motion.p>

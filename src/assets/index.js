@@ -23,7 +23,10 @@ import flappybird from "./projects/flappybird.png";
 import { FaLinkedin } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
 import { FaGithub } from "react-icons/fa";
+import { FaStackOverflow } from "react-icons/fa";
 import { FaUpwork } from "react-icons/fa6";
+import { FaMedium } from "react-icons/fa6";
+import { GiTeacher } from "react-icons/gi";
 
 export {
   logo,
@@ -42,8 +45,11 @@ export {
   resume,
   FaLinkedin,
   FaGithub,
+  FaStackOverflow,
   FaUpwork,
+  FaMedium,
   SiLeetcode,
+  GiTeacher,
   podtext_ai,
   oldbailey_ai,
   flappybird,

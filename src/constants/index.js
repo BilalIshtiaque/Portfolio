@@ -7,7 +7,10 @@ import {
   tweet,
   FaLinkedin,
   FaGithub,
+  FaStackOverflow,
+  FaMedium,
   FaUpwork,
+  GiTeacher,
   SiLeetcode,
   pixis,
   hassantree,
@@ -48,19 +51,32 @@ const services = [
     title: "Github",
     Icon: FaGithub,
     link: "https://github.com/BilalIshtiaque",
+  },
+  {
+    title: "Upwork",
+    Icon: FaUpwork,
+    link: "",
+  },
+  {
+    title: "Medium",
+    Icon: FaMedium,
+    link: "",
+  },
+  {
+    title: "ADPList",
+    Icon: GiTeacher,
+    link: "",
+  },
+  {
+    title: "Stackoverflow",
+    Icon: FaStackOverflow,
+    link: "https://stackoverflow.com/users/4986912/bilal-ishtiaque",
+  },
+  {
+    title: "Leetcode",
+    Icon: SiLeetcode,
+    link: "",
   }
-  // {
-  //   title: "Leetcode",
-  //   Icon: SiLeetcode,
-  //   link: "https://leetcode.com/u/HassanChowdhry/",
-  // },
-  // {
-  //   title: "Upwork",
-  //   Icon: FaUpwork,
-  //   link: "https://www.upwork.com/freelancers/~013df04d0a3432d810",
-  // },
-  // TODO: Add in stackoverflow.
-  // TODO: Add in mentorship platform.
 ];
 
 const experiences = [
