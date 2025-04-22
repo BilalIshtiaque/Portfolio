@@ -79,6 +79,7 @@ const services = [
   }
 ];
 
+// TODO: Revamp this!
 const experiences = [
   {
     title: "Incoming Software Developer Intern",
