@@ -1,6 +1,4 @@
 import {
-  dalhousie,
-  upwork,
   links,
   portfolio,
   leetbot,
@@ -18,8 +16,11 @@ import {
   podtext_ai,
   oldbailey_ai,
   flappybird,
-  ansys,
-  icpc,
+  aws,
+  lululemon,
+  rogers,
+  evertz,
+  bruha
 } from "../assets";
 
 export const navLinks = [
@@ -81,61 +82,57 @@ const services = [
 
 const experiences = [
   {
-    title: "Incoming Software Developer Intern",
-    company_name: "Ansys",
-    icon: ansys,
+    title: "Software Development Engineer",
+    company_name: "Amazon (AWS)",
+    icon: aws,
     iconBg: "#E6DEDD",
-    date: "Jan 2025 - Apr 2025",
+    date: "Oct 2022 - Present",
     points: [
-      "Incoming Ansys CFD Software Developer Intern for the Winter 2025 term.",
+      "Lead initiatives within AWS for revolutionizing customer support in the advent of GenAI. This included development and integration of AI agents with Amazon Q.",
+      "Designed and developed software solutions as part of the Performance Platform team to address challenges in developer experience and optimize performance within a distributed architecture."
     ],
   },
   {
-    title: "ICPC NENA Contestant",
-    company_name: "ICPC",
-    icon: icpc,
+    title: "Software Engineer",
+    company_name: "Lululemon",
+    icon: lululemon,
     iconBg: "#E6DEDD",
-    date: "Nov 2024 - Nov 2024",
-    points: ["Third Place in the Atlantic region."],
-  },
-  {
-    title: "Teaching Assistant",
-    company_name: "Dalhousie University",
-    icon: dalhousie,
-    iconBg: "#E6DEDD",
-    date: "May 2023 - Present",
+    date: "June 2021 - Oct 2022",
     points: [
-      "Boosted student performance by 25% by implementing personalized tutoring strategies.",
-      "Elevated code quality to industry standards by providing constructive feedback on 100+ assignments.",
-      "Assisted in weekly labs for 50+ students, enhancing their practical understanding of front-end concepts.",
+      "Developed multiple event-driven asynchronous microservices within a distributed cloud-native architecture, powering a multi-million-dollar application handling high-volume traffic.",
+      "Successfully led the creation of end-to-end backend solutions, which involved: System design, development, testing, deployment, monitoring and alerting."    
     ],
   },
   {
-    title: "Software Developer",
-    company_name: "BOTR Solutions",
-    icon: dalhousie,
+    title: "Full-Stack Software Developer",
+    company_name: "Rogers Communications",
+    icon: rogers,
     iconBg: "#E6DEDD",
-    date: "May 2024 - Aug 2024",
+    date: "Sept 2019 - April 2021",
     points: [
-      "Revamped the company website with new designs, improving user experience and increasing engagement by 50%.",
-      "Automated CI/CD pipelines reducing deployment time by 60% and ensuring scalable, reliable delivery.",
-      "Developed comprehensive end-to-end backend systems for REST APIs, streamlining feature development.",
-      "Created infrastructure using AWS CDK for scalable, reliable deployments and automated alerting for downtime.",
+      "Successful migrated existing on-premises monolithic backend to a distributed cloud-native microservices architecture, optimizing scalability, performance and reducing cost by over 50%."
     ],
   },
   {
-    title: "Full-Stack Developer",
-    company_name: "Upwork",
-    icon: upwork,
+    title: "Project Engineer (Intern)",
+    company_name: "Evertz Microsystems",
+    icon: evertz,
     iconBg: "#E6DEDD",
-    date: "May 2023 - Dec 2023",
+    date: "Oct 2017 - May 2018",
     points: [
-      "Migrated and rewrote a web app, enhancing UI/UX and code quality, resulting in a 20% performance boost.",
-      "Improved test coverage by introducing API and UI end-to-end tests, achieving a 20% reduction in reported issues.",
-      "Optimized RESTful and WebSocket services, increasing unit test coverage from 50% to 90%.",
-      "Ensured all automated tests were maintainable and scalable over time, contributing to long-term project success.",
+      "Led technical execution of cloud-based Media Asset Management projects on AWS, managing end-to-end deployment, DevOps automation, and client collaboration for scalable broadcasting solutions."
     ],
   },
+  {
+    title: "Software Developer (Co-op)",
+    company_name: "Bruha",
+    icon: bruha,
+    iconBg: "#E6DEDD",
+    date: "May 2015 - Sept 2015",
+    points: [
+      "Developed and launched full-featured Android applications from scratch, including architecture design, offline storage, third-party API integrations, and Play Store deployment."
+    ],
+  }
 ];
 
 const projects = [
