@@ -135,6 +135,7 @@ const experiences = [
   }
 ];
 
+// TODO: Revamp this!
 const projects = [
   {
     name: "Portfolio",
