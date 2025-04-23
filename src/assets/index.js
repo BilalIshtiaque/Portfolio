@@ -3,10 +3,11 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import dalhousie from "./company/dalhousie.png";
-import upwork from "./company/upwork.png";
-import ansys from "./company/ansys.jpg";
-import icpc from "./company/icpc.png";
+import aws from "./company/aws.png";
+import lululemon from "./company/lululemon.png";
+import rogers from "./company/rogers.png";
+import evertz from "./company/evertz.png";
+import bruha from "./company/bruha.jpeg";
 
 import pixis from "./projects/pixis.png";
 import hassantree from "./projects/hassantree.png"; // TODO: Implement me!
@@ -33,8 +34,6 @@ export {
   github,
   menu,
   close,
-  dalhousie,
-  upwork,
   pixis,
   hassantree, // TODO: Implement me!
   beatstream,
@@ -53,6 +52,9 @@ export {
   podtext_ai,
   oldbailey_ai,
   flappybird,
-  ansys,
-  icpc,
+  aws,
+  lululemon,
+  rogers,
+  evertz,
+  bruha
 };
