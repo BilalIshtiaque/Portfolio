@@ -9,17 +9,11 @@ import rogers from "./company/rogers.png";
 import evertz from "./company/evertz.png";
 import bruha from "./company/bruha.jpeg";
 
-import pixis from "./projects/pixis.png";
-import hassantree from "./projects/hassantree.png"; // TODO: Implement me!
-import beatstream from "./projects/beatstream.png";
-import portfolio from "./projects/portfolio.png";
-import leetbot from "./projects/leetbot.png";
+import goingSomewhere from "./projects/goingSomewhere.jpeg";
+import ihsanify from "./projects/ihsanify.png";
 import links from "./projects/links.png";
-import tweet from "./projects/tweet.png";
 import resume from "./resume/bilal_resume.pdf";
-import podtext_ai from "./projects/podtext-ai.png";
 import oldbailey_ai from "./projects/oldbailey.png";
-import flappybird from "./projects/flappybird.png";
 
 import { FaLinkedin } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
@@ -34,13 +28,9 @@ export {
   github,
   menu,
   close,
-  pixis,
-  hassantree, // TODO: Implement me!
-  beatstream,
   links,
-  portfolio,
-  leetbot,
-  tweet,
+  ihsanify,
+  goingSomewhere,
   resume,
   FaLinkedin,
   FaGithub,
@@ -49,9 +39,7 @@ export {
   FaMedium,
   SiLeetcode,
   GiTeacher,
-  podtext_ai,
   oldbailey_ai,
-  flappybird,
   aws,
   lululemon,
   rogers,

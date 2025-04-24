@@ -1,8 +1,7 @@
 import {
   links,
-  portfolio,
-  leetbot,
-  tweet,
+  ihsanify,
+  goingSomewhere,
   FaLinkedin,
   FaGithub,
   FaStackOverflow,
@@ -10,12 +9,7 @@ import {
   FaUpwork,
   GiTeacher,
   SiLeetcode,
-  pixis,
-  hassantree,
-  beatstream,
-  podtext_ai,
   oldbailey_ai,
-  flappybird,
   aws,
   lululemon,
   rogers,
@@ -135,38 +129,7 @@ const experiences = [
   }
 ];
 
-// TODO: Revamp this!
 const projects = [
-  {
-    name: "Portfolio",
-    description:
-      "Engineered an interactive website showcasing technical skills, successful projects, and professional experience, leading to heightened user engagement, increased inquiries, and networking opportunities.",
-    tags: [
-      {
-        name: "React",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Vite",
-        color: "violet-text-gradient",
-      },
-      {
-        name: "Three.js",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "TailwindCSS",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Firebase",
-        color: "orange-text-gradient",
-      },
-    ],
-    image: portfolio,
-    source_code_link: "https://github.com/BilalIshtiaque/Portfolio",
-    demo_link: "https://github.com/BilalIshtiaque/Portfolio"
-  },
   {
     name: "OldBailey AI",
     description:
@@ -199,8 +162,64 @@ const projects = [
     ],
     image: oldbailey_ai,
     source_code_link: "https://github.com/BilalIshtiaque/OldBailey-AI",
-    demo_link: "https://github.com/BilalIshtiaque/OldBailey-AI",
-  }
+    demo_link: "https://oldbaileyai.vercel.app/",
+  },
+  {
+    name: "Ihsanify",
+    description:
+      "Created a mobile application for islamic self-improvement and worship (On Apple AppStore and Google PlayStore).",
+    tags: [
+      {
+        name: "TS/JS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "HTML/CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Angular",
+        color: "violet-text-gradient",
+      },
+      {
+        name: "Ionic",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Amazon Web Services (AWS)",
+        color: "green-text-gradient",
+      },
+    ],
+    image: ihsanify,
+    source_code_link: "https://github.com/BOT-R/Ihsanify",
+    demo_link: "https://github.com/BOT-R/Ihsanify"
+  },
+  {
+    name: "GO-ing Somewhere",
+    description:
+      "Collaborated with GO Transit to create their first real-time transportation services mobile app (Android Application) for University capstone project (Received A+).",
+    tags: [
+      {
+        name: "XML",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Java",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "SQLite/SQL",
+        color: "violet-text-gradient",
+      },
+      {
+        name: "AndroidStudio/AndroidSDK",
+        color: "pink-text-gradient",
+      }
+    ],
+    image: goingSomewhere,
+    source_code_link: "https://github.com/BilalIshtiaque/GO-ing-Somewhere",
+    demo_link: "https://github.com/BilalIshtiaque/GO-ing-Somewhere"
+  },
 ];
 
 export { services, experiences, projects };
