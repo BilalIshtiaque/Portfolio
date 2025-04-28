@@ -1,13 +1,15 @@
 import { motion } from 'framer-motion';
 import { fadeIn } from '../utils/motion';
-import { SiOpenai } from "react-icons/si";
-import { Link } from 'react-router-dom';
+// import { SiOpenai } from "react-icons/si";
+// import { Link } from 'react-router-dom';
 import { MdSchedule, MdScheduleSend } from "react-icons/md";
 
+
 const QuickLinks = () => {  
+
   return (
-    <div className='flex gap-5 flex-col md:flex-row'>
-        <motion.div variants={fadeIn("up", "tween", 1*0.5, 1)} >
+    <div className='flex gap-5 flex-col md:flex-row'>      
+        {/* <motion.div variants={fadeIn("up", "tween", 1*0.5, 1)} >
           <Link to='/ai'>
             <button className="animated-button w-full">
               <SiOpenai className="arr-2" />
@@ -16,7 +18,7 @@ const QuickLinks = () => {
               <SiOpenai className="arr-1" />
             </button>
           </Link>
-        </motion.div>
+        </motion.div> */}
         <motion.div variants={fadeIn("up", "tween", 2*0.5, 1)}>
           <a href='#contact'>
             <div className="box">
