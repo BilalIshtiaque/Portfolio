@@ -71,7 +71,7 @@ function App() {
           <Route path="/ai" element={<Chatbot />} />
           <Route path="/meeting" element={<Meeting />} />
         </Routes>
-        <Widget />
+        {/* <Widget /> */}
       </div>
     </BrowserRouter>
   );

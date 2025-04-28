@@ -84,5 +84,3 @@ Feel free to reach out to me for any professional inquiries or questions:
 ---
 
 Thank you for visiting my portfolio!
-   
-// TODO: This needs to be revamped.

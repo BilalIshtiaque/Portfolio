@@ -16,8 +16,7 @@ client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 assistant_id = os.getenv("OPENAI_ASSISTANT_ID")
 run_states = ["completed", "failed", "cancelled", "expired", "requires_action"]
 
-# TODO: Implement me!
-allowed_origins = ["https://hassanchowdhry.live", "https://hassanchowdhryportfolio.web.app"]
+allowed_origins = ["https://bilalishtiaque.live", "https://bilalishtiaqueportfolio.web.app"]
 app.add_middleware(
   CORSMiddleware,
   allow_origins=allowed_origins,
